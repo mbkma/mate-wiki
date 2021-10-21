@@ -115,8 +115,8 @@ Transifex is a proprietary, web-based translation platform; that is to say, it i
       
       <guid>https://wiki.mate-desktop.org/introduction/installation/</guid>
       <description>This page describes how to install the MATE Desktop Environment.
-   Preinstalled Manual installation     Preinstalled    We recommend to use a distribution that already comes with the MATE Desktop pre-installed, such as (but not limited to):
- Fedora MATE-Compiz Spin Ubuntu MATE Linux Mint - MATE Debian: In the net-install installer choose the &amp;ldquo;Mate Desktop Environment&amp;rdquo; option. Alternatively you can use a live install image (scroll down and choose the iso file with &amp;ldquo;mate&amp;rdquo; in its name).</description>
+   Preinstalled  Linux BSD Illumos   Manual installation     Preinstalled    We recommend to use a distribution that already comes with the MATE Desktop pre-installed, such as (but not limited to):
+Linux     Fedora MATE-Compiz Spin Ubuntu MATE Linux Mint - MATE Debian: In the net-install installer choose the &amp;ldquo;Mate Desktop Environment&amp;rdquo; option.</description>
     </item>
     
     <item>
