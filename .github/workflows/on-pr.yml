@@ -23,3 +23,10 @@ jobs:
       - name: Build website
         run: hugo  # we should not use the --minify option with our theme
 
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: mate-desktop-legacy-archive/mate-wiki-preview
+          publish_branch: gh-pages
+          publish_dir: ./public
