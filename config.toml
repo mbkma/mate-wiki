@@ -1,4 +1,3 @@
-baseURL = "https://mbkma.github.io/mate-wiki/"
 title = "MATEwiki"
 theme = "hugo-geekdoc"
 
